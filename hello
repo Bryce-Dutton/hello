@@ -1,0 +1,16 @@
+/**
+ * Author: Bryce Dutton
+ * Date: 2023-08-22
+ *
+ * A program to greet Bryce Dutton in C
+ *
+ */
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+
+  printf("Hello Bryce!\n");
+
+  return 0;
+}
